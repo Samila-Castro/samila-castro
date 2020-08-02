@@ -1,7 +1,10 @@
 # Samila Castro :woman_technologist:
 
+:small_orange_diamond: Information Systems Student 
 
+:small_orange_diamond: I’m currently learning: React, Node
 
+:small_orange_diamond: I play guitar and sing in my free time
 
 
 
