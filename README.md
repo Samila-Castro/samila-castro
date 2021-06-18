@@ -4,7 +4,7 @@
 
 :small_orange_diamond: Information Systems Student 
 
-:small_orange_diamond: I’m currently learning: Node.js 
+:small_orange_diamond: I’m currently learning: Node.js  :green_heart:
 
 :small_orange_diamond: I play guitar and sing in my free time
 
