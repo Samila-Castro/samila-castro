@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Samila Castro
+## Hi! Me chamo Samila Castro
  <div>
   <a href="https://github.com/samila-castro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samila-castro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
